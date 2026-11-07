@@ -85,7 +85,7 @@ cd ~/accel_ros2_ws/src
 Clone this repository into the `src` directory:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/harshadapawar129-hub/cpu-gpu-benchmark.git
 ```
 
 Install the required ROS 2 dependencies and OpenCV development libraries if they are not already installed.
